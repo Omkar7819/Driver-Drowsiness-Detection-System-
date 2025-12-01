@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Driver Drowsiness Detection",
+  "description": "Real-time AI drowsiness, yawning, and distraction detection using client-side computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
